@@ -1,0 +1,6 @@
+language: java
+
+script: mvn -T 2C install
+
+jdk:
+  - oraclejdk8
